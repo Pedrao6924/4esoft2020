@@ -1,3 +1,4 @@
+//
 package src.main.java.observer.cofre;
 
 public class SenhaIncorretaException extends Throwable{
