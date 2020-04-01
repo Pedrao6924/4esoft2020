@@ -6,6 +6,7 @@ public class AppCofre {
 			
 			Cofre daSala = new Cofre(123456);
 			
+			
 			daSala.addListener(new CofreListenerConsole());
 			
 			daSala.fechar();
